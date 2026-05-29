@@ -1,0 +1,10 @@
+test_gerenciador.py::test_validar_nota_invalida_menor_que_zero PASSED                                                                                   [ 28%]
+test_gerenciador.py::test_validar_nota_invalida_maior_que_dez PASSED                                                                                    [ 42%]
+test_gerenciador.py::test_situacao_aprovado PASSED                                                                                                      [ 57%]
+test_gerenciador.py::test_situacao_recuperacao_limite_inferior PASSED                                                                                   [ 71%]
+test_gerenciador.py::test_situacao_recuperacao_limite_superior PASSED                                                                                   [ 85%]
+test_gerenciador.py::test_situacao_reprovado PASSED                                                                                                     [100%]
+
+------------------------- Generated html report: file:///C:/Users/ezauf/Downloads/projeto_sistema_notas/sistema_notas/relatorio.html -------------------------
+===================================================================== 7 passed in 0.04s ======================================================================
+PS C:\Users\ezauf\Downloads\projeto_sistema_notas\sistema_notas> 
